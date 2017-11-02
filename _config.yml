@@ -16,7 +16,7 @@
 title: IICAREdata Project
 email: dtphelan1@gmail.com
 description: >
- o enable clinical oncology research by prospectively gathering high quality real-world data. The ICAREdata project is a collaboration between MITRE, the Alliance for Clinical Trials in Oncology, and the Dana-Farber Cancer Institute.
+ To enable clinical oncology research by prospectively gathering high quality real-world data. The ICAREdata project is a collaboration between MITRE, the Alliance for Clinical Trials in Oncology, and the Dana-Farber Cancer Institute.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
